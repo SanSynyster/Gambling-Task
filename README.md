@@ -36,7 +36,5 @@ This script implements a behavioural decision-making task tailored for EEG exper
 - Compatible with EEG trigger systems that support TTL input
 
 ## Author
-
-Sahab Taali  
-MSc Cloud Computing, University of Leicester  
+SanSynyster  
 GitHub: [SanSynyster](https://github.com/SanSynyster)
